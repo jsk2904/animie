@@ -26,8 +26,6 @@ input:focus {
 	align-items: center;
 }
 
-.goButton {
-}
 .listEle {
 	color: #fff;
 }
@@ -42,8 +40,6 @@ input:focus {
 	display: flex;
 	flex-wrap: wrap;
 }
-.dataDisplay {
-}
 
 img {
 	width: 100%;
@@ -56,4 +52,8 @@ img {
 .adjust {
 	right: 45%;
 	position: absolute;
+}
+
+.bgcolor {
+	background-color: #fff;
 }
